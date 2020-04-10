@@ -1,0 +1,23 @@
+{
+  "name": "curso-express-devmedia",
+  "version": "1.0.0",
+  "description": "Curso Express DevMedia",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glaucoserrano/curso-express-devmedia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glaucoserrano/curso-express-devmedia/issues"
+  },
+  "homepage": "https://github.com/glaucoserrano/curso-express-devmedia#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
